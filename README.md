@@ -10,7 +10,7 @@
 
 [![gmail](https://img.shields.io/badge/gmail-samintejas@gmail.com-EA4335?style=flat-square&logo=gmail)](samintejas@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-Samin_Tejas-0A66C2?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/samin-tejas/)
-[![Soundcloud](https://img.shields.io/badge/SoundCloud-stellarmantra-FF3300?style=flat-square&logo=SoundCloud)](https://soundcloud.com/alienratio)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/6y7nc2oT8KYpnp2ffdH9aX?si=_tSnluW9Q8uSPDgN01czkQ)
   
 </div>
 
