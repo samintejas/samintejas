@@ -12,5 +12,5 @@
 
 </div>
 
-Im a backend developer from kerala,India, Currently working at 6D technologies banglore where im working on reliable, high-performance backend systems for the past 4 years. I'm also an audiophile, creating music under the name Stellarmantra.
+Im a backend developer from kerala,India, Currently working at [Vonnue](wwww.vonnue.com) building software solutions of the future and contributing towards the betterment of the socity. I'm also an audiophile, creating music under the name Stellarmantra.
 learn more at https://samintejas.in
